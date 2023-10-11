@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T05:42:05.031Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" etag="FqwHw078UKUEdYr8qPGT" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T18:19:46.715Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" etag="zWBP32ytIJAw4vVIPlf7" version="22.0.4" type="github">
   <diagram name="Page-1" id="oEGiXwH-ZTEXSlct65jR">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TSAgKFLIx7RcloJ4O9gl-1" value="SHOE ONLINE SHOPPING" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="540" y="160" width="150" height="150" as="geometry" />
+        <mxCell id="TSAgKFLIx7RcloJ4O9gl-1" value="SOCCER JERSEY&lt;br&gt;ONLINE SHOPPING" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="560" y="180" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="TSAgKFLIx7RcloJ4O9gl-2" value="ADMIN" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="170" y="220" width="130" height="120" as="geometry" />
+        <mxCell id="TSAgKFLIx7RcloJ4O9gl-2" value="ADMIN /&lt;br&gt;MANAGEMENT" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="190" y="100" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TSAgKFLIx7RcloJ4O9gl-3" value="USER" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="TSAgKFLIx7RcloJ4O9gl-3" value="CUSTOMER" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1040" y="205" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TSAgKFLIx7RcloJ4O9gl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.031;entryY=0.858;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TSAgKFLIx7RcloJ4O9gl-18" target="TSAgKFLIx7RcloJ4O9gl-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TSAgKFLIx7RcloJ4O9gl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TSAgKFLIx7RcloJ4O9gl-9" target="TSAgKFLIx7RcloJ4O9gl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,23 +44,23 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSAgKFLIx7RcloJ4O9gl-13" value="login info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="175" width="70" height="30" as="geometry" />
+        <mxCell id="TSAgKFLIx7RcloJ4O9gl-13" value="login details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="175" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TSAgKFLIx7RcloJ4O9gl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TSAgKFLIx7RcloJ4O9gl-13" target="TSAgKFLIx7RcloJ4O9gl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSAgKFLIx7RcloJ4O9gl-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.031;entryY=0.858;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TSAgKFLIx7RcloJ4O9gl-1" target="TSAgKFLIx7RcloJ4O9gl-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="502" y="288" as="sourcePoint" />
-            <mxPoint x="254" y="323" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="HVkbrISjo-K1CYA_yApF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TSAgKFLIx7RcloJ4O9gl-18" target="TSAgKFLIx7RcloJ4O9gl-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TSAgKFLIx7RcloJ4O9gl-18" value="Reply" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="410" y="300" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1_Eq_lJcl7Pn7y9gRFaq-1" value="Njekwu Kosiso Anointed&lt;br&gt;&lt;br&gt;2020/242932" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="20" width="150" height="60" as="geometry" />
+        <mxCell id="1_Eq_lJcl7Pn7y9gRFaq-1" value="&lt;div&gt;Etuh Daniel Smart&lt;/div&gt;&lt;div&gt;2020/241133&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HVkbrISjo-K1CYA_yApF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TSAgKFLIx7RcloJ4O9gl-1" target="TSAgKFLIx7RcloJ4O9gl-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
