@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T00:40:54.890Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" etag="0zxg5MNzsmv2J1Bm8bl9" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T01:02:08.100Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" etag="saLA_4-OWUEh7X6rRm2p" version="22.0.4" type="github">
   <diagram name="Page-1" id="oEGiXwH-ZTEXSlct65jR">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TSAgKFLIx7RcloJ4O9gl-1" value="SPORTS WEAR ONLINE SHOPPING" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+        <mxCell id="TSAgKFLIx7RcloJ4O9gl-1" value="ONLINE BOOKS SHOPPING SYSTEM" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="490" y="150" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TSAgKFLIx7RcloJ4O9gl-2" value="Admin" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="70" y="150" width="130" height="120" as="geometry" />
+          <mxGeometry x="90" y="220" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TSAgKFLIx7RcloJ4O9gl-3" value="Customer" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="195" width="130" height="80" as="geometry" />
+        <mxCell id="TSAgKFLIx7RcloJ4O9gl-3" value="USER/READER" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="900" y="200" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TSAgKFLIx7RcloJ4O9gl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TSAgKFLIx7RcloJ4O9gl-9" target="TSAgKFLIx7RcloJ4O9gl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -62,8 +62,8 @@
         <mxCell id="TSAgKFLIx7RcloJ4O9gl-18" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="275" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TSAgKFLIx7RcloJ4O9gl-20" value="&lt;div&gt;Nwogu Michael&amp;nbsp;&lt;/div&gt;&lt;div&gt;2020/248964&lt;/div&gt;&lt;div&gt;Computer Science&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="325" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="xUor7C1I0Waf0apOWGZA-3" value="&lt;div&gt;Olowa Emmanuel&lt;/div&gt;&lt;div&gt;2020/244893&lt;/div&gt;&lt;div&gt;Computer Science&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
