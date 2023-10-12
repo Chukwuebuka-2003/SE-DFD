@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T02:40:30.722Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" etag="jVv9LHTMGo8QN3wUVg-J" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T02:08:55.627Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" etag="ytAde9F9qZHvxdKwA-42" version="22.0.4" type="github">
   <diagram name="Page-1" id="vCnhvKJR_zZhNVBPRhj7">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
             <mxRectangle width="64" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25" value="MEMBER" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="25" value="STUDENT" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="297" width="114" height="109" as="geometry" />
         </mxCell>
         <mxCell id="26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="25" vertex="1">
@@ -112,7 +112,7 @@
             <mxRectangle width="36" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="28" value="member_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" parent="26" vertex="1">
+        <mxCell id="28" value="student_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" parent="26" vertex="1">
           <mxGeometry x="36" width="78" height="21" as="geometry">
             <mxRectangle width="78" height="21" as="alternateBounds" />
           </mxGeometry>
@@ -125,7 +125,7 @@
             <mxRectangle width="36" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31" value="member_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" parent="29" vertex="1">
+        <mxCell id="31" value="student_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" parent="29" vertex="1">
           <mxGeometry x="36" width="78" height="21" as="geometry">
             <mxRectangle width="78" height="21" as="alternateBounds" />
           </mxGeometry>
