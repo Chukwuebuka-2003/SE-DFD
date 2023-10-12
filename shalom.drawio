@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2023-10-12T01:23:18.012Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" version="22.0.4" etag="YL3oErrrUhlup8ZGQSsE" type="github">
+  <diagram name="Page-1" id="CEZRcob5ENU-O9JZE26G">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="School Library System" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry width="175" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Student" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="225" y="51" width="71" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Book" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="397" y="26" width="52" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Librarian" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="568" width="77" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7019152661064426;exitY=1;entryX=0.0008802816901408451;entryY=0.5;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.000357142857143;exitY=0.5;entryX=-0.001953125;entryY=0.2121566632756866;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="16" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7899974849094568;exitY=0;entryX=-0.0019277597402597403;entryY=0.06211211885376755;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="-19" />
+              <mxPoint x="509" y="-19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="Borrow" style="curved=1;startArrow=none;endArrow=block;exitX=0.9968089788732394;exitY=0.5;entryX=-0.001953125;entryY=0.7565933367243134;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="Issued by" style="curved=1;startArrow=none;endArrow=block;exitX=1.0070612980769231;exitY=0.484375;entryX=-0.0019277597402597403;entryY=0.8145391822318008;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="42" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
