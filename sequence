@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" modified="2023-10-12T01:15:59.735Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" version="22.0.4" etag="KpWMDAe17xarA-LgJ7Is" type="github">
+  <diagram name="Page-1" id="oVH7gJTHML8J7735R_RG">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry width="150" height="934" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="242" width="150" height="934" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" vertex="1" parent="1">
+          <mxGeometry x="65" y="458" width="337" height="243" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="[Until problem solved]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="4">
+          <mxGeometry x="40" width="297" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="submit problem" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="validate problem" style="curved=1;" edge="1" parent="1" source="3" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="367" y="147" />
+              <mxPoint x="367" y="177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="Problem is valid" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="3" target="2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="provide input data" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="acknowledge input data" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="3" target="2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="process data" style="curved=1;" edge="1" parent="1" source="3" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="367" y="408" />
+              <mxPoint x="367" y="438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="update progress" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="3" target="2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="529" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="provide additional data" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="process data" style="curved=1;" edge="1" parent="1" source="3" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="367" y="621" />
+              <mxPoint x="367" y="651" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="send solution" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="3" target="2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="evaluate solution" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="783" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="provide evaluation" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="3" target="2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="829" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="Check if problem is valid" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="221" y="197" width="193" height="47" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
