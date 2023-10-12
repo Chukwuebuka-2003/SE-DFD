@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T08:11:46.385Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" etag="uaRYSHL0loNZ5A_P8TTo" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T08:12:28.922Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" etag="3My6ByOVmbK9oXbHmHoN" version="22.0.4" type="github">
   <diagram name="Page-1" id="KBHsSuoqtyUIhiAM-73_">
     <mxGraphModel dx="1730" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="40" value="subscribes" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmany;endSize=10;;exitX=0.08455572568453278;exitY=1;entryX=0.18188202823501037;entryY=0;" parent="1" source="2" target="31" edge="1">
+        <mxCell id="40" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmany;endSize=10;;exitX=0.08455572568453278;exitY=1;entryX=0.18188202823501037;entryY=0;" parent="1" source="2" target="31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-10" y="178" />
@@ -178,8 +178,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3KbnpFhCPNDs0pAgBgrC-41" value="OBI AGATHA CHIDINMA.&lt;br&gt;2020/248515" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="163" width="160" height="40" as="geometry" />
+        <mxCell id="3KbnpFhCPNDs0pAgBgrC-41" value="&lt;div&gt;Okonji Emmanuel Isioma&lt;/div&gt;&lt;div&gt;2020/244364&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="370" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
